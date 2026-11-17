@@ -1,2 +1,2 @@
 API_KEY = ""
-API_ENDPOINT = 'https://gateway-9qyoxizf.ue.gateway.dev'
+API_ENDPOINT = 'https://gateway-cacz82me.ue.gateway.dev'
