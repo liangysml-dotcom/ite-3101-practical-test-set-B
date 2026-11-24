@@ -1,11 +1,18 @@
 def check_prime_num(n: int) -> bool:
-    # Replace pass with your Python code.
-    pass
-
+    for x in range(2, x-1):
+        if x % n ==0
+            return false
+        eles:
+        return true
 
 def main():
-    # Replace pass with your Python code.
-    pass
+    while True:
+        try:
+            user_input = int("Ente an integer greater than 1: ")
+            if check_prime_number(user_input) == Ture
+                print("(user_input) is a prime number")
+            elif usar_input x= 1:
+                print("")
 
 
 if __name__ == "__main__":
