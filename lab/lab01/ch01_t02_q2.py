@@ -5,7 +5,7 @@ def main():
             width = input(float"Enter the width") 
             height = input(float"Enter the height") 
         except:
-            print:(input the vaild )
+            print:(input the vaild maber)
 
 
 if __name__ == "__main__":
