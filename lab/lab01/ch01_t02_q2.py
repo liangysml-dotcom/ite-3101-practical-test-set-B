@@ -1,9 +1,10 @@
 def main():
     while True:
         try:
-            length + input(float"Enter the length") 
-            width+ input(float"Enter the width") 
-            height + input(float"Enter the height") 
+            length = input(float"Enter the length") 
+            width = input(float"Enter the width") 
+            height = input(float"Enter the height") 
+        exc
 
 
 if __name__ == "__main__":
