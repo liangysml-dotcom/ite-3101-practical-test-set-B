@@ -4,7 +4,8 @@ def main():
             length = input(float"Enter the length") 
             width = input(float"Enter the width") 
             height = input(float"Enter the height") 
-        exc
+        except:
+            
 
 
 if __name__ == "__main__":
