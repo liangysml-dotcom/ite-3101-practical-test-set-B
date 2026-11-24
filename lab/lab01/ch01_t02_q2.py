@@ -4,6 +4,7 @@ def main():
             length = input(float"Enter the length") 
             width = input(float"Enter the width") 
             height = input(float"Enter the height") 
+            volume = (1/3) * length * width * height
         except:
             print:("input the vaild maber")
 
