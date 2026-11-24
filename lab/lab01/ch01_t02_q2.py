@@ -3,7 +3,7 @@ def main():
         try:
             length + input(float"Enter the length") 
             width+ input(float"Enter the width") 
-            height + input(float"Enter the length") 
+            height + input(float"Enter the height") 
 
 
 if __name__ == "__main__":
