@@ -1,6 +1,7 @@
 def main():
-    while 
-    pass
+    while True:
+
+    
 
 
 if __name__ == "__main__":
