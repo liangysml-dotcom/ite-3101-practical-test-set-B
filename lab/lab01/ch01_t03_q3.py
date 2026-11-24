@@ -1,6 +1,6 @@
 def get_number_sequence(n: int) -> str:
     for i in range( n, 0, -1):
-    print{("1")}
+    print{"(1)"}
 
 
 
