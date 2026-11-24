@@ -1,5 +1,5 @@
 def main():
-    # Replace pass with your Python code.
+    while
     pass
 
 
