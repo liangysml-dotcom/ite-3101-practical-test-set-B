@@ -1,6 +1,6 @@
 def main():
     while True:
-        user_input = int(in)
+        user_input = int(input)
         try:
 
 
