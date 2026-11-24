@@ -2,7 +2,7 @@ def main():
     while True:
         user_input = int(input("Type aninteger"))
         try:
-            if user_input % 2==
+            if user_input % 2 == 0
 
 
     
