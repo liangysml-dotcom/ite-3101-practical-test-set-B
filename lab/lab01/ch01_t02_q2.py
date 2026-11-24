@@ -1,7 +1,7 @@
 def main():
     while True:
         try:
-            length +  
+            length + input("") 
 
 
 if __name__ == "__main__":
